@@ -1,5 +1,4 @@
 const express = require('express')
-const heros = require('../heros/herosModel')
 const Heros = require('../heros/herosModel')
 
 const server = express()
